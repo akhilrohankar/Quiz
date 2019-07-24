@@ -6,12 +6,13 @@
 
 * 1 is to start the test, one question at a time is asked with options and user can select the answer. Correctness of the answer is checked and result shown. 
 
-Option 2 is to provide the over all score for all the questions being asnwered. 
+* Option 2 is to provide the over all score for all the questions being asnwered. 
 
-When option 3 is selected, user is asked a question then its options and correct answer. 
+* When option 3 is selected, user is asked a question then its options and correct answer. 
 This is then added back to the qa.json and that is saved. 
 
-Option 4 to exit the program. 
+* Option 4 to exit the program.
+
 When I re-run the program I will see the newly added question too. 
 
 
