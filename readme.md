@@ -1,7 +1,7 @@
 ### What does the program do ?
 ------------------------------
 
-*This program at the start should read the data from qa.json. Then it will wait for user to select 1, 2, 3 options.* 
+**This program at the start should read the data from qa.json. Then it will wait for user to select 1, 2, 3 options.** 
 
 
 1 is to start the test, one question at a time is asked with options and user can select the answer. Correctness of the answer is checked and result shown. 
