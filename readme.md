@@ -13,8 +13,8 @@ This is then added back to the qa.json and that is saved.
 
 * Option 4 to exit the program.
 
-When I re-run the program I will see the newly added question too. 
+**When I re-run the program I will see the newly added question too.** 
 
 
-How to unit test the code and get the coverage ?
-run the below command for the same
+**How to unit test the code and get the coverage ?
+run the below command for the same**
