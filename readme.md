@@ -4,7 +4,7 @@
 This program at the start should read the data from qa.json. Then it will wait for user to select 1, 2, 3 options. 
 
 
-1 is to start the test, one question at a time is asked with options and user can select the answer. Correctness of the answer is checked and result shown. 
+**1 is to start the test, one question at a time is asked with options and user can select the answer. Correctness of the answer is checked and result shown. 
 
 Option 2 is to provide the over all score for all the questions being asnwered. 
 
