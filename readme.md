@@ -17,4 +17,4 @@ This is then added back to the qa.json and that is saved.
 
 
 **How to unit test the code and get the coverage ?
-run the below command for the same**
+Run the below command for the same**
