@@ -1,4 +1,5 @@
 ## What does the program do ?
+------------------------------
 
 This program at the start should read the data from qa.json. Then it will wait for user to select 1, 2, 3 options. 
 
