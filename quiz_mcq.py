@@ -10,7 +10,7 @@ def print_question():
   for i in jsonobject['quiz']:
     for j in jsonobject['quiz'][i]:
       print(jsonobject['quiz'][i][j]['question'])
-      received_answer=receive_answer(jsonobject['quiz'][i][j]['question'],jsonobject['quiz'][i][j]['options'])
+      received_answer = receive_answer(jsonobject['quiz'][i][j]['question'],jsonobject['quiz'][i][j]['options'])
       score+=validate_answer(jsonobject['quiz'][i][j]['answer'],received_answer)
   print_final_result(score) 
 def receive_answer(question,options):
