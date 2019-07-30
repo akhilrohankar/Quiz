@@ -44,6 +44,3 @@ def print_final_result(score):
         print('***Your all answers are correct!!!***\n')
 j_obj = read_json("/home/akhil/Downloads/my/quiz.json")
 print_question()
-
-
-
