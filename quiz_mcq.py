@@ -33,7 +33,7 @@ def receive_answer(question,options):
     else:
       receive_answer(question,options)
 def validate_answer(correct_answer,given_answer):
-  if correct_answer==given_answer:
+  if correct_answer == given_answer:
     return 1
   else:
     return 0  
