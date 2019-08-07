@@ -11,7 +11,7 @@
 * Exit the program.
 
 
-##To do
+**To do**
 
 * When option 3 is selected, user is asked a question then its options and correct answer. 
 This is then added back to the qa.json and that is saved. 
