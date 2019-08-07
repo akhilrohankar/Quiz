@@ -8,10 +8,14 @@
 
 * Option 2 is to provide the over all score for all the questions being answered. 
 
+* Exit the program.
+
+
+##To do
+
 * When option 3 is selected, user is asked a question then its options and correct answer. 
 This is then added back to the qa.json and that is saved. 
 
-* Option 4 to exit the program.
 
 **When I re-run the program I will see the newly added question too.** 
 
